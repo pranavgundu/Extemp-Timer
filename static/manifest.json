@@ -1,0 +1,23 @@
+{
+	"name": "Extemp Timer",
+	"short_name": "Extemp",
+	"description": "Tournament prep room timer for extemporaneous speaking",
+	"start_url": "/Extemp-Timer/",
+	"scope": "/Extemp-Timer/",
+	"display": "standalone",
+	"orientation": "any",
+	"theme_color": "#1e40af",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "/Extemp-Timer/icon-192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/Extemp-Timer/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
